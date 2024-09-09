@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FeastExpress</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="hello_welcome_to_our_food_ordering_app">hello_welcome_to_our_food_ordering_app</string>
+    <string name="food_express">Food Express</string>
+    <string name="hello_welcome_to_our_food_ordering_app1">Hello Welcome To Our Food Ordering App</string>
+    <string name="register">register</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">sign in</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_daily_meal">Daily Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+    <string name="_10_00_23_30">10.00 - 23.30</string>
+    <string name="_5_0">5.0</string>
+    <string name="product_name">Product Name</string>
+    <string name="dinner">Dinner</string>
+    <string name="description_description_description">Description Description Description</string>
+    <string name="discount">Discount</string>
+    <string name="name">Name</string>
+    <string name="your_favourite_and_tasty_food_is_here">Your Favourite and tasty food is here</string>
+    <string name="view_more">View more</string>
+    <string name="_10_weekend_delicious_n_dinner_recipes">10 Weekend Delicious \n Dinner Recipes</string>
+    <string name="make_order">Make Order</string>
+    <string name="my_cart">My Cart</string>
+</resources>
